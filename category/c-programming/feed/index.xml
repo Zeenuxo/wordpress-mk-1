@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>C Programming &#8211; zeenuxo</title>
+	<atom:link href="/category/c-programming/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Zeenuxo</description>
+	<lastBuildDate>Thu, 02 Jun 2022 14:54:51 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>C Programming</title>
+		<link>/c-programming/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 02 Jun 2022 10:19:58 +0000</pubDate>
+				<category><![CDATA[C Programming]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[The C programming language is a procedural programming language. Dennis Ritchie created it as a system programming language for writing operating systems.]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-left">The C programming language is a procedural programming language. <br>Dennis Ritchie created it as a system programming language for writing operating systems.</p>
+
+
+
+<p>C is one of the high-level programming languages developed by Dennis Ritchie.</p>
+
+
+
+<p>C was originally developed for UNIX operating system to beat the issues of previous languages such as B, BCPL, etc.</p>
+
+
+
+<p>The UNIX operating system development started in the year 1969, and its code was rewritten in C in the year 1972.</p>
+
+
+
+<p>The UNIX operating system development started in the year 1969, and its code was rewritten in C in the year 1972.</p>
+
+
+
+<p>In 1985, Windows 1.0 was released. Even though Windows source code isn’t publicly available on the market, it’s been stated that its kernel is mostly written in C.</p>
+
+
+
+<p>In 1991, Linux kernel development started, and it’s additionally written in C.</p>
+
+
+
+<p>After a year it was released under the GNU license and was used as part of the GNU Operating System.</p>
+
+
+
+<p>The GNU operating system was started using C and Lisp programming languages. So, many of its components are written in C.</p>
+
+
+
+<p>In 1977, Oracle database development started, and in 1983 its code was rewritten from assembly to C. It became one in all the foremost widespread databases within the world.</p>
+
+
+
+<p>Now a days C is exclusively used for building OS, application packages and customized software. Because of its power and efficiency, it has gained more popularity.</p>
+
+
+
+<p>C is increasingly used by system programmers, application developers and researchers for a spread of programming tasks.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
